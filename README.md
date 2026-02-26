@@ -1,0 +1,2 @@
+# wallvix-privacy
+Privacy Policy
